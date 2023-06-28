@@ -1,0 +1,169 @@
+
+/* .purple-color{
+    color: #538EFF;
+} */
+
+.footer{
+    background-color: #538EFF;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top:30px ;
+}
+
+
+.footer div{
+    margin: 30px 0px;
+}
+.footer div h1{
+    font-family: Acme;
+    font-size: 25px;
+    color: white;
+}
+
+.brand-info{
+    width: 300px;
+}
+
+.footer div p{
+    color: white;
+    font-weight: 200;
+    margin: 10px 0px;
+    font-size: 14px;
+}
+
+.footer div h3{
+    color: white;
+    margin: 10px 0px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.footer div i{
+    color: white;
+    font-size: 25px;
+    margin-right: 30px;
+}
+.footer div input{
+    border: none;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    width: 200px;
+}
+.footer div button{
+    border: none;
+    padding: 9px 10px;
+    background-color: #538EFF;
+    border: 1px solid white;
+    color: white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:5px;
+}
+
+.footer-dark{
+    text-align: center;
+    background-color: #fcfcfc;
+    font-weight: 100;
+    font-size: 12px;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    padding: 10px;
+}
+
+@media screen and (max-width:450px) {
+    .footer{ 
+        display: block;
+    }
+}
+
+/* footer white  */
+/* .purple-color{
+    color: #538EFF;
+}
+
+.footer{
+    border-top: 1px solid #ddd;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top:30px ;
+}
+
+
+.footer div{
+    margin: 10px 0px;
+    text-align: center;
+}
+.footer div h1{
+    font-family: Acme;
+    font-size: 20px;
+}
+
+.brand-info{
+    width: 300px;
+}
+
+.footer div p{
+    font-weight: 200;
+    margin: 10px 0px;
+    font-size: 12px;
+}
+
+.footer div h3{
+    margin: 10px 0px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.footer div i{
+    color: #538EFF;
+    font-size: 18px;
+    margin-right: 30px;
+}
+.footer div input{
+    border: 1px solid #ddd;
+    
+    padding: 8px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius:5px;
+    width: 200px;
+}
+.footer div button{
+    border: none;
+    padding: 8px 10px;
+    background-color: #538EFF;
+    border: 1px solid white;
+    color: white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius:5px;
+}
+
+.footer-dark{
+    text-align: center;
+    background-color: #fcfcfc;
+    font-weight: 100;
+    font-size: 12px;
+    letter-spacing: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Inter;
+    padding: 10px;
+}
+
+@media screen and (max-width:450px) {
+    .brand-info{
+        width: 100%;
+    }
+    .footer{ 
+        display: block;
+        text-align: center;
+    }
+    
+} */
